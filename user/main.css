@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    padding: 10px;
+
+}
+.header{
+    width: 100%;
+    height: 100px;
+    border-radius: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+}
+.header img{
+   width: 50px;
+   border-radius: 10px;
+}
+.header a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.header ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+font-size: 18px;
+}
+.header ul li a, header  a{
+    text-decoration: none;
+}
+.header ul li {
+list-style: none;
+}
+
+.curosual{
+    width: 100vw;
+    /* height: 10; */
+    display: flex;
+    gap: 20px;
+    overflow-x: scroll;
+    backdrop-filter: blur(100px);
+}
+.curosual img{
+    height: 50vh;
+    filter: grayscale(100%);
+    transition: transform  0.5s;
+    border-radius: 20px;
+}
+.curosual::-webkit-scrollbar{
+    display: none;
+}
+.images-div{
+    width: 100%;
+    height: 85vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.curosual img:hover{
+filter: grayscale(0);
+cursor: pointer;
+transform: scale(0.95);
+}
+#backbtn, #frontbtn{
+    width: 50px;
+    cursor: pointer;
+    color: white;
+}
+
+/*  script */
+
+#script{
+    width: 100%;
+    display: flex;
+flex-wrap: nowrap;
+justify-content: center;
+    /* align-items: center; */
+}
+#brandsstyles{
+    width: 100vw;
+    padding: 10px;
+    background-color:cadetblue;
+    margin: 20px;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+    
+}
+#brandsstyles img{
+    border-radius: 10px;
+}
+
+
+/* footer */
+footer{
+    width: 100%;
+    height: 50vh;
+    background-color:dodgerblue;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    padding: 20px;
+}
+.footer .logo img{
+    width: 200px;
+    border-radius: 10px;
+}
+.footer .socialmedia{
+    display: flex;
+    flex-direction:column;
+    gap: 30px;
+}
+.footer .contact{
+    display: flex;
+    flex-direction:column;
+    gap: 20px;   
+}
+.bottom{
+    text-align: center;
+    padding: 15px;
+}
+.footer a{
+    text-decoration: none;
+}
+.footer img{
+    width: 40px;
+}

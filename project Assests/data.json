@@ -1,0 +1,1172 @@
+{
+    "cameras": [
+        {
+            "brand": "Canon",
+            "categories": [
+                {
+                    "category": "DSLR",
+                    "divisions": [
+                        {
+                            "image":"",
+                            "model": "EOS 90D",
+                            "specifications": {
+                                "sensor": "APS-C CMOS",
+                                "megapixels": 32.5,
+                                "Processor": "DIGIC 8",
+                                "isoRange": "100-25600",
+                                "videoResolution": "4K UHD",
+                                "weight": "701g"
+                            },
+                            "features": [
+                                "45-point Autofocus",
+                                "Wi-Fi & Bluetooth",
+                                "Dual Pixel CMOS AF"
+                            ],
+                            "description": "A versatile DSLR designed for photographers seeking exceptional image quality and high-speed performance.",
+                            "originalPrice": "1,44,995"
+                        },
+                        {
+                            "id": 2,
+                            "model": "EOS Rebel T8i",
+                            "specifications": {
+                                "sensor": "APS-C CMOS",
+                                "megapixels": 24.1,
+                                "Processor": "DIGIC 8",
+                                "isoRange": "100-51200",
+                                "videoResolution": "4K UHD",
+                                "weight": "515g"
+                            },
+                            "features": [
+                                "24.1 MP Sensor",
+                                "Optical Viewfinder",
+                                "Creative Filters"
+                            ],
+                            "description": "A user-friendly DSLR perfect for beginners and enthusiasts.",
+                            "originalPrice": 899
+                        },
+                        {
+                            "id": 3,
+                            "model": "Canon EOS 6D Mark II",
+                            "specifications": {
+                                "sensor": "full-frame CMOS",
+                                "megapixels": 26.2,
+                                "Processor": "DIGIC 7",
+                                "isoRange": "100-40,000",
+                                "videoResolution": "Full HD 1080p at 60 fps",
+                                "weight": "765 g (body only)"
+                            },
+                            "features": [
+                                "26.2 MP full-frame sensor ",
+                                "Vari-angle touchscreen ",
+                                "Built-in GPS, Wi-Fi, and Bluetooth for connectivity."
+                            ],
+                            "description": "A user-friendly DSLR perfect for beginners and enthusiasts.",
+                            "originalPrice": "1,72,453"
+                        },
+                        {
+                            "id": 4,
+                            "model": "Canon EOS 5D Mark IV",
+                            "specifications": {
+                                "sensor": "full-frame CMOS",
+                                "megapixels": 30.4,
+                                "Processor": "DIGIC 6+",
+                                "isoRange": "100-32,000",
+                                "videoResolution": "4K DCI at 30 fps, Full HD at 60 fps",
+                                "weight": "890 g (body only)"
+                            },
+                            "features": [
+                                "30.4 MP full-frame CMOS sensor",
+                                "Wi-Fi, GPS, and NFC",
+                                "Dual Pixel CMOS "
+                            ],
+                            "description": "A user-friendly DSLR perfect for beginners and enthusiasts.",
+                            "originalPrice": 899
+                        },
+                        {
+                            "id": 5,
+                            "model": "Canon EOS-1D X Mark III",
+                            "specifications": {
+                                "sensor": "full-frame CMOS",
+                                "megapixels": 20.1,
+                                "Processor": "Dual DIGIC X",
+                                "isoRange": "100-102,000",
+                                "videoResolution": "4K DCI at 60 fps,RAW 5.5K",
+                                "weight": "1,440 g (With Battery and Memory card)"
+                            },
+                            "features": [
+                                "20.1 MP full-frame CMOS sensor",
+                                "Wi-Fi, GPS, and NFC",
+                                "16 fps burst shooting (mechanical shutter)"
+                            ],
+                            "description": "A user-friendly DSLR perfect for beginners and enthusiasts.",
+                            "originalPrice": 899
+                        }
+                    ]
+                },
+                {
+                    "category": "Mirrorless",
+                    "divisions": [
+                        {
+                            "id": 1,
+                            "model": "EOS R5",
+                            "specifications": {
+                                "sensor": "Full-Frame CMOS",
+                                "megapixels": 45,
+                                "isoRange": "100-51200",
+                                "videoResolution": "8K UHD",
+                                "weight": "738g"
+                            },
+                            "features": [
+                                "8K Video Recording",
+                                "In-Body Image Stabilization (IBIS)",
+                                "Animal Eye Detection AF"
+                            ],
+                            "description": "A professional-grade mirrorless camera offering unparalleled image and video quality.",
+                            "originalPrice": 3899
+                        },
+                        {
+                            "id": 2,
+                            "model": "EOS R6",
+                            "specifications": {
+                                "sensor": "Full-Frame CMOS",
+                                "megapixels": 20.1,
+                                "isoRange": "100-102400",
+                                "videoResolution": "4K UHD",
+                                "weight": "680g"
+                            },
+                            "features": [
+                                "Dual Pixel CMOS AF II",
+                                "4K 60p Video",
+                                "5-Axis IBIS"
+                            ],
+                            "description": "A versatile mirrorless camera designed for photographers and videographers alike.",
+                            "originalPrice": 2499
+                        },
+                        {
+                            "id": 3,
+                            "model": "EOS R10",
+                            "specifications": {
+                                "sensor": "APS-C CMOS",
+                                "megapixels": 24.2,
+                                "isoRange": "100-32000",
+                                "videoResolution": "4K UHD",
+                                "weight": "429g"
+                            },
+                            "features": [
+                                "High-Speed Continuous Shooting",
+                                "Lightweight Design",
+                                "HDR PQ Video Support"
+                            ],
+                            "description": "An affordable and compact mirrorless camera suitable for travel and everyday photography.",
+                            "originalPrice": 979
+                        },
+                        {
+                            "id": 4,
+                            "model": "EOS RP",
+                            "specifications": {
+                                "sensor": "Full-Frame CMOS",
+                                "megapixels": 26.2,
+                                "isoRange": "100-40000",
+                                "videoResolution": "4K UHD",
+                                "weight": "485g"
+                            },
+                            "features": [
+                                "Vari-Angle Touchscreen LCD",
+                                "Dual Pixel AF",
+                                "Compact Full-Frame Design"
+                            ],
+                            "description": "A beginner-friendly full-frame mirrorless camera with an intuitive interface.",
+                            "originalPrice": 1299
+                        },
+                        {
+                            "id": 5,
+                            "model": "EOS M50 Mark II",
+                            "specifications": {
+                                "sensor": "APS-C CMOS",
+                                "megapixels": 24.1,
+                                "isoRange": "100-25600",
+                                "videoResolution": "4K UHD",
+                                "weight": "387g"
+                            },
+                            "features": [
+                                "Vlogger-Friendly Flip Screen",
+                                "4K Time-Lapse",
+                                "Eye Detection Autofocus"
+                            ],
+                            "description": "A compact mirrorless camera perfect for vloggers and content creators.",
+                            "originalPrice": 699
+                        }
+                    ]
+                },
+                {
+                    "category": "Compact Cameras",
+                    "divisions": [
+                        {
+                            "id": 1,
+                            "model": "PowerShot G7 X Mark III",
+                            "specifications": {
+                                "sensor": "1-inch CMOS",
+                                "megapixels": 20.1,
+                                "zoom": "4.2x Optical Zoom",
+                                "videoResolution": "4K UHD",
+                                "weight": "304g"
+                            },
+                            "features": [
+                                "Tilting Touchscreen",
+                                "4K Video Recording",
+                                "Live Streaming Support"
+                            ],
+                            "description": "A compact camera perfect for vloggers and content creators with advanced video capabilities.",
+                            "originalPrice": 749
+                        },
+                        {
+                            "id": 2,
+                            "model": "PowerShot SX740 HS",
+                            "specifications": {
+                                "sensor": "1/2.3-inch CMOS",
+                                "megapixels": 20.3,
+                                "zoom": "40x Optical Zoom",
+                                "videoResolution": "4K UHD",
+                                "weight": "299g"
+                            },
+                            "features": [
+                                "Powerful Zoom",
+                                "Image Stabilization",
+                                "Wi-Fi and Bluetooth Connectivity"
+                            ],
+                            "description": "A travel-friendly compact camera with a powerful zoom lens for versatile photography.",
+                            "originalPrice": 399
+                        },
+                        {
+                            "id": 3,
+                            "model": "PowerShot G5 X Mark II",
+                            "specifications": {
+                                "sensor": "1-inch CMOS",
+                                "megapixels": 20.1,
+                                "zoom": "5x Optical Zoom",
+                                "videoResolution": "4K UHD",
+                                "weight": "340g"
+                            },
+                            "features": [
+                                "Pop-Up Electronic Viewfinder",
+                                "Fast Aperture Lens",
+                                "High-Speed Continuous Shooting"
+                            ],
+                            "description": "A high-performance compact camera with a sleek design and advanced features.",
+                            "originalPrice": 899
+                        },
+                        {
+                            "id": 4,
+                            "model": "PowerShot ELPH 360 HS",
+                            "specifications": {
+                                "sensor": "1/2.3-inch CMOS",
+                                "megapixels": 20.2,
+                                "zoom": "12x Optical Zoom",
+                                "videoResolution": "1080p Full HD",
+                                "weight": "147g"
+                            },
+                            "features": [
+                                "Slim Design",
+                                "Built-in Wi-Fi",
+                                "Image Stabilization"
+                            ],
+                            "description": "A lightweight and stylish compact camera for everyday use.",
+                            "originalPrice": 229
+                        },
+                        {
+                            "id": 5,
+                            "model": "PowerShot G9 X Mark II",
+                            "specifications": {
+                                "sensor": "1-inch CMOS",
+                                "megapixels": 20.1,
+                                "zoom": "3x Optical Zoom",
+                                "videoResolution": "1080p Full HD",
+                                "weight": "206g"
+                            },
+                            "features": [
+                                "Pocket-Friendly Design",
+                                "Touchscreen Interface",
+                                "High-Speed Autofocus"
+                            ],
+                            "description": "An ultra-compact camera offering excellent image quality and portability.",
+                            "originalPrice": 499
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "brand": "Sony",
+            "categories": [
+                {
+                    "category": "DSLR",
+                    "divisions": [
+                        {
+                            "id": 1,
+                            "model": "Alpha a99 II",
+                            "specifications": {
+                                "sensor": "Full-Frame Exmor R CMOS",
+                                "megapixels": 42.4,
+                                "isoRange": "100-25600",
+                                "videoResolution": "4K UHD",
+                                "weight": "849g"
+                            },
+                            "features": [
+                                "5-Axis SteadyShot INSIDE Stabilization",
+                                "Hybrid Phase Detection AF",
+                                "Dual SD Card Slots"
+                            ],
+                            "description": "A flagship DSLR with advanced stabilization and high-resolution capabilities.",
+                            "originalPrice": 3199
+                        },
+                        {
+                            "id": 2,
+                            "model": "Alpha a77 II",
+                            "specifications": {
+                                "sensor": "APS-C Exmor CMOS",
+                                "megapixels": 24.3,
+                                "isoRange": "100-25600",
+                                "videoResolution": "1080p Full HD",
+                                "weight": "726g"
+                            },
+                            "features": [
+                                "79-Point Phase Detection AF",
+                                "12 fps Continuous Shooting",
+                                "Weather-Sealed Body"
+                            ],
+                            "description": "A fast-shooting DSLR with precise autofocus for action photography.",
+                            "originalPrice": 1199
+                        },
+                        {
+                            "id": 3,
+                            "model": "Alpha a68",
+                            "specifications": {
+                                "sensor": "APS-C Exmor CMOS",
+                                "megapixels": 24.2,
+                                "isoRange": "100-25600",
+                                "videoResolution": "1080p Full HD",
+                                "weight": "596g"
+                            },
+                            "features": [
+                                "79-Point 4D Focus System",
+                                "OLED Viewfinder",
+                                "Tiltable LCD Screen"
+                            ],
+                            "description": "An entry-level DSLR offering excellent autofocus and ease of use.",
+                            "originalPrice": 599
+                        },
+                        {
+                            "id": 4,
+                            "model": "Alpha a850",
+                            "specifications": {
+                                "sensor": "Full-Frame CMOS",
+                                "megapixels": 24.6,
+                                "isoRange": "100-6400",
+                                "videoResolution": "720p HD",
+                                "weight": "850g"
+                            },
+                            "features": [
+                                "Dual BIONZ Image Processors",
+                                "9 AF Points with Central Dual Cross",
+                                "Rugged Magnesium Alloy Body"
+                            ],
+                            "description": "A robust DSLR designed for professionals seeking high image quality.",
+                            "originalPrice": 1999
+                        },
+                        {
+                            "id": 5,
+                            "model": "Alpha a900",
+                            "specifications": {
+                                "sensor": "Full-Frame CMOS",
+                                "megapixels": 24.6,
+                                "isoRange": "200-3200",
+                                "videoResolution": "No Video",
+                                "weight": "895g"
+                            },
+                            "features": [
+                                "SteadyShot INSIDE Image Stabilization",
+                                "Bright Optical Viewfinder",
+                                "Dual BIONZ Processors"
+                            ],
+                            "description": "A full-frame DSLR for photography purists, offering superior image quality.",
+                            "originalPrice": 2999
+                        }
+                    ]
+                },
+                {
+                    "category": "Mirrorless",
+                    "divisions": [
+                        {
+                            "id": 1,
+                            "model": "Alpha a7 IV",
+                            "specifications": {
+                                "sensor": "Full-Frame BSI CMOS",
+                                "megapixels": 33,
+                                "isoRange": "100-51200",
+                                "videoResolution": "4K UHD 60p",
+                                "weight": "658g"
+                            },
+                            "features": [
+                                "10 fps Continuous Shooting",
+                                "Real-Time Eye Autofocus",
+                                "5-Axis In-Body Image Stabilization"
+                            ],
+                            "description": "A versatile mirrorless camera for professionals and enthusiasts, offering excellent stills and video quality.",
+                            "originalPrice": 2499
+                        },
+                        {
+                            "id": 2,
+                            "model": "Alpha a7R V",
+                            "specifications": {
+                                "sensor": "Full-Frame CMOS",
+                                "megapixels": 61,
+                                "isoRange": "100-32000",
+                                "videoResolution": "8K UHD 30p",
+                                "weight": "723g"
+                            },
+                            "features": [
+                                "61MP Resolution",
+                                "AI-Powered Autofocus",
+                                "Pixel Shift Multi Shooting"
+                            ],
+                            "description": "A high-resolution mirrorless camera designed for studio and landscape photographers.",
+                            "originalPrice": 3899
+                        },
+                        {
+                            "id": 3,
+                            "model": "Alpha a6600",
+                            "specifications": {
+                                "sensor": "APS-C CMOS",
+                                "megapixels": 24.2,
+                                "isoRange": "100-32000",
+                                "videoResolution": "4K UHD",
+                                "weight": "503g"
+                            },
+                            "features": [
+                                "Real-Time Tracking Autofocus",
+                                "High-Capacity Z Battery",
+                                "5-Axis In-Body Stabilization"
+                            ],
+                            "description": "A compact and lightweight mirrorless camera for travel and everyday photography.",
+                            "originalPrice": 1399
+                        },
+                        {
+                            "id": 4,
+                            "model": "Alpha a7S III",
+                            "specifications": {
+                                "sensor": "Full-Frame BSI CMOS",
+                                "megapixels": 12.1,
+                                "isoRange": "80-102400",
+                                "videoResolution": "4K UHD 120p",
+                                "weight": "699g"
+                            },
+                            "features": [
+                                "Low-Light Performance",
+                                "Dual Native ISO",
+                                "Professional Video Features"
+                            ],
+                            "description": "A mirrorless camera tailored for videographers and low-light photography enthusiasts.",
+                            "originalPrice": 3499
+                        },
+                        {
+                            "id": 5,
+                            "model": "Alpha ZV-E10",
+                            "specifications": {
+                                "sensor": "APS-C CMOS",
+                                "megapixels": 24.2,
+                                "isoRange": "100-32000",
+                                "videoResolution": "4K UHD",
+                                "weight": "343g"
+                            },
+                            "features": [
+                                "Optimized for Vlogging",
+                                "Vari-Angle LCD Screen",
+                                "Product Showcase Mode"
+                            ],
+                            "description": "An entry-level mirrorless camera perfect for content creators and vloggers.",
+                            "originalPrice": 799
+                        }
+                    ]
+                },
+                {
+                    "category": "Compact Cameras",
+                    "divisions": [
+                        {
+                            "id": 1,
+                            "model": "Cyber-shot DSC-HX99",
+                            "specifications": {
+                                "sensor": "1/2.3-inch Exmor R CMOS",
+                                "megapixels": 18.2,
+                                "zoom": "28x Optical Zoom",
+                                "videoResolution": "4K UHD",
+                                "weight": "242g"
+                            },
+                            "features": [
+                                "Touchscreen LCD",
+                                "5-axis Optical SteadyShot",
+                                "Wi-Fi and Bluetooth"
+                            ],
+                            "description": "A versatile compact camera with a powerful zoom lens and 4K video recording.",
+                            "originalPrice": 448
+                        },
+                        {
+                            "id": 2,
+                            "model": "Cyber-shot DSC-RX100 VII",
+                            "specifications": {
+                                "sensor": "1-inch Exmor RS CMOS",
+                                "megapixels": 20.1,
+                                "zoom": "8.3x Optical Zoom",
+                                "videoResolution": "4K UHD",
+                                "weight": "302g"
+                            },
+                            "features": [
+                                "Real-Time Eye Autofocus",
+                                "Fast Hybrid AF",
+                                "3-inch LCD Touchscreen"
+                            ],
+                            "description": "A premium compact camera perfect for vlogging and travel photography, offering high-quality video and stills.",
+                            "originalPrice": 1198
+                        },
+                        {
+                            "id": 3,
+                            "model": "Cyber-shot DSC-HX400V",
+                            "specifications": {
+                                "sensor": "1/2.3-inch Exmor R CMOS",
+                                "megapixels": 20.4,
+                                "zoom": "50x Optical Zoom",
+                                "videoResolution": "1080p Full HD",
+                                "weight": "660g"
+                            },
+                            "features": [
+                                "Wi-Fi and GPS",
+                                "Optical SteadyShot",
+                                "16x Digital Zoom"
+                            ],
+                            "description": "An all-in-one compact camera with a massive zoom lens for capturing distant subjects in detail.",
+                            "originalPrice": 448
+                        },
+                        {
+                            "id": 4,
+                            "model": "Cyber-shot DSC-W800",
+                            "specifications": {
+                                "sensor": "1/2.3-inch CCD",
+                                "megapixels": 20.1,
+                                "zoom": "5x Optical Zoom",
+                                "videoResolution": "720p HD",
+                                "weight": "125g"
+                            },
+                            "features": [
+                                "Easy-to-Use Interface",
+                                "Built-in Picture Effects",
+                                "720p HD Video Recording"
+                            ],
+                            "description": "A budget-friendly compact camera offering high-resolution images in a slim and portable design.",
+                            "originalPrice": 129
+                        },
+                        {
+                            "id": 5,
+                            "model": "Cyber-shot DSC-RX100 III",
+                            "specifications": {
+                                "sensor": "1-inch Exmor R CMOS",
+                                "megapixels": 20.1,
+                                "zoom": "2.9x Optical Zoom",
+                                "videoResolution": "1080p Full HD",
+                                "weight": "290g"
+                            },
+                            "features": [
+                                "Built-in EVF",
+                                "F1.8 Lens",
+                                "Wi-Fi and NFC Connectivity"
+                            ],
+                            "description": "A high-end compact camera offering exceptional image quality, built-in viewfinder, and portable design.",
+                            "originalPrice": 748
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "brand": "Nikon",
+            "categories": [
+                {
+                    "category": "DSLR",
+                    "divisions": [
+                        {
+                            "id": 1,
+                            "model": "D850",
+                            "specifications": {
+                                "sensor": "Full-Frame CMOS",
+                                "megapixels": 45.7,
+                                "isoRange": "64-25600",
+                                "videoResolution": "4K UHD",
+                                "weight": "1005g"
+                            },
+                            "features": [
+                                "45.7 Megapixel Resolution",
+                                "8K Time-lapse",
+                                "7 fps Continuous Shooting"
+                            ],
+                            "description": "A high-resolution DSLR with fast shooting speeds, perfect for professional photographers.",
+                            "originalPrice": 2999
+                        },
+                        {
+                            "id": 2,
+                            "model": "D780",
+                            "specifications": {
+                                "sensor": "Full-Frame CMOS",
+                                "megapixels": 24.5,
+                                "isoRange": "100-51200",
+                                "videoResolution": "4K UHD",
+                                "weight": "840g"
+                            },
+                            "features": [
+                                "Hybrid AF System",
+                                "4K UHD Video Recording",
+                                "ISO 51200 Sensitivity"
+                            ],
+                            "description": "A versatile DSLR ideal for both photography and videography with excellent low-light performance.",
+                            "originalPrice": 2299
+                        },
+                        {
+                            "id": 3,
+                            "model": "D7500",
+                            "specifications": {
+                                "sensor": "APS-C CMOS",
+                                "megapixels": 20.9,
+                                "isoRange": "100-51200",
+                                "videoResolution": "4K UHD",
+                                "weight": "720g"
+                            },
+                            "features": [
+                                "4K UHD Video Recording",
+                                "8 fps Continuous Shooting",
+                                "SnapBridge Wi-Fi"
+                            ],
+                            "description": "A mid-range DSLR offering advanced features for both photography and video creation.",
+                            "originalPrice": 1249
+                        },
+                        {
+                            "id": 4,
+                            "model": "D3500",
+                            "specifications": {
+                                "sensor": "APS-C CMOS",
+                                "megapixels": 24.2,
+                                "isoRange": "100-25600",
+                                "videoResolution": "1080p Full HD",
+                                "weight": "395g"
+                            },
+                            "features": [
+                                "Lightweight Design",
+                                "24.2 Megapixels",
+                                "Guide Mode for Beginners"
+                            ],
+                            "description": "An entry-level DSLR camera with great image quality, perfect for new photographers.",
+                            "originalPrice": 499
+                        },
+                        {
+                            "id": 5,
+                            "model": "D500",
+                            "specifications": {
+                                "sensor": "APS-C CMOS",
+                                "megapixels": 20.9,
+                                "isoRange": "100-51200",
+                                "videoResolution": "4K UHD",
+                                "weight": "860g"
+                            },
+                            "features": [
+                                "153 AF Points",
+                                "4K UHD Video",
+                                "10 fps Continuous Shooting"
+                            ],
+                            "description": "A flagship APS-C DSLR for wildlife and action photographers with fast autofocus and continuous shooting.",
+                            "originalPrice": 1799
+                        }
+                    ]
+                },
+                {
+                    "category": "Mirrorless",
+                    "divisions": [
+                        {
+                            "id": 1,
+                            "model": "Z9",
+                            "specifications": {
+                                "sensor": "Full-Frame Stacked CMOS",
+                                "megapixels": 45.7,
+                                "isoRange": "64-25600",
+                                "videoResolution": "8K UHD",
+                                "weight": "1340g"
+                            },
+                            "features": [
+                                "8K Video Recording",
+                                "20 fps Continuous Shooting",
+                                "Real-Time Eye Autofocus"
+                            ],
+                            "description": "Nikon's flagship mirrorless camera with 8K video and advanced autofocus capabilities.",
+                            "originalPrice": 5499
+                        },
+                        {
+                            "id": 2,
+                            "model": "Z7 II",
+                            "specifications": {
+                                "sensor": "Full-Frame BSI CMOS",
+                                "megapixels": 45.7,
+                                "isoRange": "64-25600",
+                                "videoResolution": "4K UHD",
+                                "weight": "705g"
+                            },
+                            "features": [
+                                "Dual Expeed 6 Processors",
+                                "4K UHD Video",
+                                "5-axis In-Body Image Stabilization"
+                            ],
+                            "description": "A high-resolution mirrorless camera with fast processing and great video quality.",
+                            "originalPrice": 2999
+                        },
+                        {
+                            "id": 3,
+                            "model": "Z6 II",
+                            "specifications": {
+                                "sensor": "Full-Frame BSI CMOS",
+                                "megapixels": 24.5,
+                                "isoRange": "100-51200",
+                                "videoResolution": "4K UHD",
+                                "weight": "705g"
+                            },
+                            "features": [
+                                "Dual Expeed 6 Processors",
+                                "5-axis In-Body Image Stabilization",
+                                "4K UHD Video"
+                            ],
+                            "description": "A versatile mirrorless camera with strong autofocus and video features.",
+                            "originalPrice": 1999
+                        },
+                        {
+                            "id": 4,
+                            "model": "Z50",
+                            "specifications": {
+                                "sensor": "APS-C CMOS",
+                                "megapixels": 20.9,
+                                "isoRange": "100-51200",
+                                "videoResolution": "4K UHD",
+                                "weight": "450g"
+                            },
+                            "features": [
+                                "4K UHD Video Recording",
+                                "19 AF Points",
+                                "Flip-down Touchscreen"
+                            ],
+                            "description": "A compact mirrorless camera ideal for enthusiasts and travelers looking for powerful features in a small body.",
+                            "originalPrice": 859
+                        },
+                        {
+                            "id": 5,
+                            "model": "Z5",
+                            "specifications": {
+                                "sensor": "Full-Frame CMOS",
+                                "megapixels": 24.3,
+                                "isoRange": "100-51200",
+                                "videoResolution": "4K UHD",
+                                "weight": "675g"
+                            },
+                            "features": [
+                                "Full-Frame Sensor",
+                                "Dual SD Card Slots",
+                                "5-axis In-Body Image Stabilization"
+                            ],
+                            "description": "A budget-friendly full-frame mirrorless camera with solid performance and 4K video capabilities.",
+                            "originalPrice": 1399
+                        }
+                    ]
+                },
+                {
+                    "category": "Compact Cameras",
+                    "divisions": [
+                        {
+                            "id": 1,
+                            "model": "Coolpix P1000",
+                            "specifications": {
+                                "sensor": "1/2.3-inch CMOS",
+                                "megapixels": 16,
+                                "zoom": "125x Optical Zoom",
+                                "videoResolution": "4K UHD",
+                                "weight": "1415g"
+                            },
+                            "features": [
+                                "125x Optical Zoom",
+                                "4K UHD Video Recording",
+                                "Wi-Fi and Bluetooth"
+                            ],
+                            "description": "A compact camera with an incredible 125x optical zoom, ideal for wildlife and distant photography.",
+                            "originalPrice": 999
+                        },
+                        {
+                            "id": 2,
+                            "model": "Coolpix B500",
+                            "specifications": {
+                                "sensor": "1/2.3-inch CMOS",
+                                "megapixels": 16,
+                                "zoom": "40x Optical Zoom",
+                                "videoResolution": "1080p Full HD",
+                                "weight": "542g"
+                            },
+                            "features": [
+                                "40x Optical Zoom",
+                                "Built-in Wi-Fi and Bluetooth",
+                                "Easy-to-Use Interface"
+                            ],
+                            "description": "A user-friendly compact camera with a great zoom range and wireless connectivity for easy sharing.",
+                            "originalPrice": 299
+                        },
+                        {
+                            "id": 3,
+                            "model": "Coolpix A1000",
+                            "specifications": {
+                                "sensor": "1/2.3-inch CMOS",
+                                "megapixels": 16,
+                                "zoom": "35x Optical Zoom",
+                                "videoResolution": "4K UHD",
+                                "weight": "330g"
+                            },
+                            "features": [
+                                "35x Optical Zoom",
+                                "4K UHD Video Recording",
+                                "Built-in Viewfinder"
+                            ],
+                            "description": "A compact camera offering both long zoom and 4K video recording, perfect for travel and everyday photography.",
+                            "originalPrice": 499
+                        },
+                        {
+                            "id": 4,
+                            "model": "Coolpix W300",
+                            "specifications": {
+                                "sensor": "1/2.3-inch CMOS",
+                                "megapixels": 16,
+                                "zoom": "5x Optical Zoom",
+                                "videoResolution": "4K UHD",
+                                "weight": "231g"
+                            },
+                            "features": [
+                                "Waterproof, Shockproof, and Freezeproof",
+                                "4K UHD Video Recording",
+                                "GPS and Wi-Fi"
+                            ],
+                            "description": "A rugged, waterproof camera for outdoor enthusiasts who want to capture photos and videos in extreme conditions.",
+                            "originalPrice": 389
+                        },
+                        {
+                            "id": 5,
+                            "model": "Coolpix L340",
+                            "specifications": {
+                                "sensor": "1/2.3-inch CCD",
+                                "megapixels": 20.2,
+                                "zoom": "28x Optical Zoom",
+                                "videoResolution": "720p HD",
+                                "weight": "430g"
+                            },
+                            "features": [
+                                "28x Optical Zoom",
+                                "Easy-to-Use Interface",
+                                "HD Video Recording"
+                            ],
+                            "description": "An affordable compact camera with a powerful zoom and simple operation for everyday photography.",
+                            "originalPrice": 229
+                        }
+                    ]
+                }
+            ]
+        },
+        
+        {
+            "brand": "Panasonic",
+            "categories": [
+                {
+                    "category": "DSLR",
+                    "divisions": [
+                        {
+                            "id": 1,
+                            "model": "Lumix DC-GH5",
+                            "specifications": {
+                                "sensor": "Micro Four Thirds",
+                                "megapixels": 20.3,
+                                "isoRange": "200-25600",
+                                "videoResolution": "4K UHD",
+                                "weight": "725g"
+                            },
+                            "features": [
+                                "4K Video Recording",
+                                "Dual IS 2",
+                                "V-LogL for color grading"
+                            ],
+                            "description": "A mirrorless camera designed for advanced video production and high-quality photography.",
+                            "originalPrice": 1299
+                        },
+                        {
+                            "id": 2,
+                            "model": "Lumix DC-G95",
+                            "specifications": {
+                                "sensor": "Micro Four Thirds",
+                                "megapixels": 16,
+                                "isoRange": "200-25600",
+                                "videoResolution": "4K UHD",
+                                "weight": "545g"
+                            },
+                            "features": [
+                                "4K UHD Video",
+                                "Dual Image Stabilization",
+                                "Post Focus"
+                            ],
+                            "description": "A versatile DSLR with strong video capabilities and effective image stabilization for sharper results.",
+                            "originalPrice": 799
+                        },
+                        {
+                            "id": 3,
+                            "model": "Lumix DMC-GH4",
+                            "specifications": {
+                                "sensor": "Micro Four Thirds",
+                                "megapixels": 16.05,
+                                "isoRange": "200-25600",
+                                "videoResolution": "4K UHD",
+                                "weight": "560g"
+                            },
+                            "features": [
+                                "4K Video Recording",
+                                "Fast AF",
+                                "High Frame Rate Recording"
+                            ],
+                            "description": "A professional mirrorless DSLR offering 4K video and advanced autofocus performance.",
+                            "originalPrice": 699
+                        },
+                        {
+                            "id": 4,
+                            "model": "Lumix DC-GH6",
+                            "specifications": {
+                                "sensor": "Micro Four Thirds",
+                                "megapixels": 25,
+                                "isoRange": "100-25600",
+                                "videoResolution": "6K",
+                                "weight": "823g"
+                            },
+                            "features": [
+                                "6K Video Recording",
+                                "5-axis In-Body Stabilization",
+                                "High-Speed Autofocus"
+                            ],
+                            "description": "A high-performance DSLR with cutting-edge 6K video recording and enhanced image stabilization.",
+                            "originalPrice": 1999
+                        },
+                        {
+                            "id": 5,
+                            "model": "Lumix G85",
+                            "specifications": {
+                                "sensor": "Micro Four Thirds",
+                                "megapixels": 16,
+                                "isoRange": "200-25600",
+                                "videoResolution": "4K UHD",
+                                "weight": "505g"
+                            },
+                            "features": [
+                                "4K Video Recording",
+                                "Dual I.S. Image Stabilization",
+                                "Splash and Dustproof Body"
+                            ],
+                            "description": "A durable DSLR with 4K video and advanced stabilization, designed for outdoor and action photographers.",
+                            "originalPrice": 599
+                        }
+                    ]
+                },
+                {
+                    "category": "Mirrorless",
+                    "divisions": [
+                        {
+                            "id": 1,
+                            "model": "Lumix S1R",
+                            "specifications": {
+                                "sensor": "Full-Frame CMOS",
+                                "megapixels": 47.3,
+                                "isoRange": "100-25600",
+                                "videoResolution": "4K UHD",
+                                "weight": "1025g"
+                            },
+                            "features": [
+                                "47.3 Megapixel Full-Frame Sensor",
+                                "4K Video Recording",
+                                "5-axis In-Body Image Stabilization"
+                            ],
+                            "description": "A high-resolution mirrorless camera designed for professional photographers and videographers.",
+                            "originalPrice": 2499
+                        },
+                        {
+                            "id": 2,
+                            "model": "Lumix S5",
+                            "specifications": {
+                                "sensor": "Full-Frame CMOS",
+                                "megapixels": 24.2,
+                                "isoRange": "100-51200",
+                                "videoResolution": "4K UHD",
+                                "weight": "714g"
+                            },
+                            "features": [
+                                "24.2 Megapixel Full-Frame Sensor",
+                                "Dual Native ISO",
+                                "4K UHD 60p Video"
+                            ],
+                            "description": "A versatile full-frame mirrorless camera with excellent video and low-light performance.",
+                            "originalPrice": 1999
+                        },
+                        {
+                            "id": 3,
+                            "model": "Lumix G95",
+                            "specifications": {
+                                "sensor": "Micro Four Thirds",
+                                "megapixels": 20.3,
+                                "isoRange": "200-25600",
+                                "videoResolution": "4K UHD",
+                                "weight": "545g"
+                            },
+                            "features": [
+                                "4K UHD Video Recording",
+                                "Dual Image Stabilization",
+                                "Post Focus and Focus Stacking"
+                            ],
+                            "description": "A mirrorless camera for content creators with advanced video features and flexible image stabilization.",
+                            "originalPrice": 799
+                        },
+                        {
+                            "id": 4,
+                            "model": "Lumix G85",
+                            "specifications": {
+                                "sensor": "Micro Four Thirds",
+                                "megapixels": 16,
+                                "isoRange": "200-25600",
+                                "videoResolution": "4K UHD",
+                                "weight": "505g"
+                            },
+                            "features": [
+                                "4K UHD Video Recording",
+                                "Dual I.S. Image Stabilization",
+                                "Weather Sealed Body"
+                            ],
+                            "description": "A rugged and compact mirrorless camera with high-quality 4K video and image stabilization.",
+                            "originalPrice": 599
+                        },
+                        {
+                            "id": 5,
+                            "model": "Lumix S1",
+                            "specifications": {
+                                "sensor": "Full-Frame CMOS",
+                                "megapixels": 24.2,
+                                "isoRange": "100-51200",
+                                "videoResolution": "4K UHD",
+                                "weight": "1025g"
+                            },
+                            "features": [
+                                "24.2 Megapixel Full-Frame Sensor",
+                                "6K PHOTO Mode",
+                                "5-axis Dual Image Stabilization"
+                            ],
+                            "description": "A full-frame mirrorless camera with advanced image and video features, ideal for professionals.",
+                            "originalPrice": 1997
+                        }
+                    ]
+                },
+                {
+                    "category": "Compact Cameras",
+                    "divisions": [
+                        {
+                            "id": 1,
+                            "model": "Lumix DMC-ZS200",
+                            "specifications": {
+                                "sensor": "1-inch CMOS",
+                                "megapixels": 20.1,
+                                "zoom": "15x Optical Zoom",
+                                "videoResolution": "4K UHD",
+                                "weight": "340g"
+                            },
+                            "features": [
+                                "15x Optical Zoom",
+                                "4K UHD Video Recording",
+                                "5-axis Image Stabilization"
+                            ],
+                            "description": "A compact travel camera with powerful zoom and 4K video capabilities.",
+                            "originalPrice": 649
+                        },
+                        {
+                            "id": 2,
+                            "model": "Lumix DMC-LX100 II",
+                            "specifications": {
+                                "sensor": "Micro Four Thirds",
+                                "megapixels": 17,
+                                "zoom": "3.1x Optical Zoom",
+                                "videoResolution": "4K UHD",
+                                "weight": "392g"
+                            },
+                            "features": [
+                                "17 Megapixels Micro Four Thirds Sensor",
+                                "4K Video Recording",
+                                "Fast Autofocus"
+                            ],
+                            "description": "A compact camera with excellent image quality, perfect for street and everyday photography.",
+                            "originalPrice": 799
+                        },
+                        {
+                            "id": 3,
+                            "model": "Lumix DMC-TZ90",
+                            "specifications": {
+                                "sensor": "1/2.3-inch CMOS",
+                                "megapixels": 20.3,
+                                "zoom": "30x Optical Zoom",
+                                "videoResolution": "4K UHD",
+                                "weight": "327g"
+                            },
+                            "features": [
+                                "30x Optical Zoom",
+                                "4K Video",
+                                "Selfie-friendly Flip Screen"
+                            ],
+                            "description": "A versatile compact camera with a long zoom range, ideal for travel and general photography.",
+                            "originalPrice": 449
+                        },
+                        {
+                            "id": 4,
+                            "model": "Lumix DMC-FZ1000",
+                            "specifications": {
+                                "sensor": "1-inch CMOS",
+                                "megapixels": 20.1,
+                                "zoom": "16x Optical Zoom",
+                                "videoResolution": "4K UHD",
+                                "weight": "831g"
+                            },
+                            "features": [
+                                "16x Optical Zoom",
+                                "4K UHD Video Recording",
+                                "Fast AF with 49-point Focus"
+                            ],
+                            "description": "A high-performance compact camera with 4K video and fast autofocus for both video and stills.",
+                            "originalPrice": 697
+                        },
+                        {
+                            "id": 5,
+                            "model": "Lumix DMC-LX10",
+                            "specifications": {
+                                "sensor": "1-inch CMOS",
+                                "megapixels": 20.1,
+                                "zoom": "3x Optical Zoom",
+                                "videoResolution": "4K UHD",
+                                "weight": "310g"
+                            },
+                            "features": [
+                                "20.1 Megapixel 1-inch Sensor",
+                                "4K Video",
+                                "Fast Lens (f/1.4-2.8)"
+                            ],
+                            "description": "A compact camera with fast lens and 4K video, perfect for low-light conditions and video enthusiasts.",
+                            "originalPrice": 599
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
