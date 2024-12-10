@@ -9,15 +9,6 @@ curosoul.addEventListener("wheel", (e) => {
 
 });
 
-backbtn1.addEventListener("click", () => {
-    curosoul.style.scrollBehavior = "smooth"
-    curosoul.scrollLeft -= 900
-});
-frontbtn.addEventListener("click", () => {
-    curosoul.style.scrollBehavior = "smooth"
-    curosoul.scrollLeft += 900
-})
-
 
 
 

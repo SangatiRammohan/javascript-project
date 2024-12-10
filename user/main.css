@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    background:linear-gradient(to bottom right, #748d92,#d3d9d4) ;
+}
 header{
     padding: 10px;
 
@@ -15,7 +18,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: aqua;
+    background-color:#124E66;
 }
 .header img{
    width: 50px;
@@ -26,6 +29,7 @@ header{
     justify-content: center;
     align-items: center;
     gap: 10px;
+    color: #d3d9d4;
 }
 .header ul{
     display: flex;
@@ -60,10 +64,11 @@ list-style: none;
 }
 .images-div{
     width: 100%;
-    height: 85vh;
+    height: 60vh;
     display: flex;
     justify-content:center;
     align-items:center;
+    padding: 20px;
 }
 .curosual img:hover{
 filter: grayscale(0);
@@ -86,13 +91,13 @@ justify-content: center;
     /* align-items: center; */
 }
 #brandsstyles{
-    width: 100vw;
     padding: 10px;
-    background-color:cadetblue;
+    background-color:#748d92;
     margin: 20px;
     border-radius: 20px;
     text-align: center;
     align-items: center;
+    color: #d3d9d4;
     
 }
 #brandsstyles img{
@@ -103,37 +108,42 @@ justify-content: center;
 /* footer */
 footer{
     width: 100%;
-    height: 50vh;
-    background-color:dodgerblue;
+    height: 40vh;
+    background-color:#212A31;
 }
 .footer{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    color: white;
+    color:  #d3d9d4;
     padding: 20px;
 }
 .footer .logo img{
-    width: 200px;
+    width: 100px;
     border-radius: 10px;
 }
 .footer .socialmedia{
     display: flex;
     flex-direction:column;
-    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
 .footer .contact{
     display: flex;
     flex-direction:column;
+    justify-content: center;
+    align-items: center;
     gap: 20px;   
 }
 .bottom{
     text-align: center;
     padding: 15px;
+    color: #d3d9d4;
 }
 .footer a{
     text-decoration: none;
 }
 .footer img{
-    width: 40px;
+    width: 30px;
 }

@@ -5,47 +5,46 @@
     
 }
 body{
-    background-color: #87CEED;
+    background:#748d92
 }
 header{
     padding: 10px;
+
 }
-.header {
-    width:100% ;
+.header{
+    width: 100%;
     height: 100px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 30px;
-    background-color: #B0E0E6;
-    border-radius: 10px;
-}
-.header a {
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    gap: 10px;
-}
-
-.header a img {
-    width: 50px;
     border-radius: 20px;
-}
-
-.header ul {
+    padding: 10px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    background-color:#124E66;
+}
+.header img{
+   width: 50px;
+   border-radius: 10px;
+}
+.header a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #d3d9d4;
+}
+.header ul{
+    display: flex;
+    justify-content: space-evenly;
     align-items: center;
     gap: 20px;
+font-size: 18px;
 }
-
-.header ul li {
-    list-style: none;
-}
-.header ul li a{
+.header ul li a, header  a{
     text-decoration: none;
 }
-
+.header ul li {
+list-style: none;
+}
 
 
 /* buying section */
@@ -62,7 +61,7 @@ header{
     width: 50%;
     height: auto;
     border-radius: 30px;
-    box-shadow: 2px 4px 20px blue;
+    box-shadow: 0px 0px 20px #d3d9d4;
     margin: 20px;
 
 }
@@ -96,7 +95,7 @@ header{
 .sell img {
     width: 50%;
     border-radius: 30px;
-    box-shadow: 2px 4px 20px blue;
+    box-shadow: 0px 0px 100px #d3d9d4;
 }
 
 /* buitton for both buy and sell */
@@ -107,46 +106,56 @@ button {
     background-color: black;
     color: white;
     border-radius: 20px;
+    cursor: pointer;
 }
 
 button:hover{
-    box-shadow: 3px 5px 30px blue;
+    box-shadow: 3px 5px 30px #124E66;
 }
+
+
+
+
 
 /* footer */
 footer{
     width: 100%;
-    height: 50vh;
-    background-color:dodgerblue;
+    height: 40vh;
+    background-color:#212A31;
 }
 .footer{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    color: white;
+    color:  #d3d9d4;
     padding: 20px;
 }
 .footer .logo img{
-    width: 200px;
+    width: 100px;
     border-radius: 10px;
 }
 .footer .socialmedia{
     display: flex;
     flex-direction:column;
-    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
 .footer .contact{
     display: flex;
     flex-direction:column;
+    justify-content: center;
+    align-items: center;
     gap: 20px;   
 }
 .bottom{
     text-align: center;
     padding: 15px;
+    color: #d3d9d4;
 }
 .footer a{
     text-decoration: none;
 }
 .footer img{
-    width: 40px;
+    width: 30px;
 }
